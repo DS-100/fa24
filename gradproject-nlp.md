@@ -5,6 +5,11 @@ nav_exclude: true
 description: Specifications for the NLPgrad project for Data 200.
 markdown: kramdown
 ---
+
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
+
 # Graduate Project 2: Natural Language Processing
 {:.no_toc}
 
